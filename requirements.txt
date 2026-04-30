@@ -1,0 +1,4 @@
+apache-beam>=2.50.0
+google-cloud-bigquery>=3.11.0
+requests>=2.31.0
+apache-airflow>=2.7.0
